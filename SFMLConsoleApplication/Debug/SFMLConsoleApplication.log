@@ -1,0 +1,12 @@
+﻿  LoadCoin.cpp
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\LoadSprites.h(28,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  LoadSprites.cpp
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\LoadCoin.h(24,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\LoadSprites.h(28,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\LoadSprites.h(28,30): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\LoadCoin.h(24,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\Main.cpp(19,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\oskar\Desktop\SFMLConsoleApplication\SFMLConsoleApplication\Main.cpp(183,23): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  SFMLConsoleApplication.vcxproj -> C:\Users\oskar\Desktop\SFMLConsoleApplication\Debug\SFMLConsoleApplication.exe
